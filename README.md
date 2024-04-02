@@ -1,4 +1,4 @@
-# Bharat Intern Data Science Internship Projects
+# Bharat Intern DS Internship
 
 Welcome to the repository showcasing my data science internship projects completed at Bharat Intern! During my internship, I worked on two exciting projects that provided valuable insights into the realms of data science and machine learning.
 
