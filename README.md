@@ -13,7 +13,7 @@ Task 1 presented an exciting challenge: developing a predictive model to determi
 - Analyzed factors such as age, gender, and ticket class.
 
 ### GitHub Repository
-Find the code and data related to this project in the [Titanic Classification GitHub Repository]([insert_link_here](https://github.com/chandanthota75/Bharat-Intern-DS-Internship/tree/main/Task%201)).
+Find the code and data related to this project in the [Titanic Classification GitHub Repository](https://github.com/chandanthota75/Bharat-Intern-DS-Internship/tree/main/Task%201).
 
 ## Project 2: SMS Classifier Project
 
