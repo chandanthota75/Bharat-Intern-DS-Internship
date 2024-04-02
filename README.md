@@ -2,7 +2,7 @@
 
 Welcome to the repository showcasing my data science internship projects completed at Bharat Intern! During my internship, I worked on two exciting projects that provided valuable insights into the realms of data science and machine learning.
 
-## Project 1: Titanic Classification Project
+## Task 1: Titanic Classification Project
 
 ### Overview
 Task 1 presented an exciting challenge: developing a predictive model to determine passenger survival likelihood aboard the Titanic. Leveraging Python and advanced data science techniques, I delved into historical data to analyze factors such as age, gender, and ticket class. The result? A robust model ready to navigate the seas of predictive analytics!
@@ -13,9 +13,9 @@ Task 1 presented an exciting challenge: developing a predictive model to determi
 - Analyzed factors such as age, gender, and ticket class.
 
 ### GitHub Repository
-Find the code and data related to this project in the [Titanic Classification GitHub Repository](https://github.com/chandanthota75/Bharat-Intern-DS-Internship/tree/main/Task%201).
+Find the code and data related to this Task in the [Titanic Classification GitHub Repository](https://github.com/chandanthota75/Bharat-Intern-DS-Internship/tree/main/Task%201).
 
-## Project 2: SMS Classifier Project
+## Task 2: SMS Classifier Project
 
 ### Overview
 Task 2 propelled me into the world of text classification, where I tackled the intricate task of distinguishing spam from non-spam SMS messages. Armed with Python prowess and NLP techniques, I crafted a model to sift through messages with precision. The goal? To streamline communication and enhance efficiency!
@@ -26,7 +26,7 @@ Task 2 propelled me into the world of text classification, where I tackled the i
 - Aimed to streamline communication and enhance efficiency.
 
 ### GitHub Repository
-Find the code and data related to this project in the [SMS Classifier GitHub Repository](https://github.com/chandanthota75/Bharat-Intern-DS-Internship/tree/main/Task%202).
+Find the code and data related to this Task in the [SMS Classifier GitHub Repository](https://github.com/chandanthota75/Bharat-Intern-DS-Internship/tree/main/Task%202).
 
 ## Conclusion
 My journey with Bharat Intern has been nothing short of phenomenal! From unravelling the mysteries of historical data to decoding the nuances of text classification, each task has fueled my passion for innovation and problem-solving. I'm eager to continue pushing boundaries, learning, and contributing to groundbreaking projects.
