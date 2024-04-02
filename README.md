@@ -13,7 +13,7 @@ Task 1 presented an exciting challenge: developing a predictive model to determi
 - Analyzed factors such as age, gender, and ticket class.
 
 ### GitHub Repository
-Find the code and data related to this project in the [Titanic Classification GitHub Repository](insert_link_here).
+Find the code and data related to this project in the [Titanic Classification GitHub Repository]([insert_link_here](https://github.com/chandanthota75/Bharat-Intern-DS-Internship/tree/main/Task%201)).
 
 ## Project 2: SMS Classifier Project
 
@@ -26,7 +26,7 @@ Task 2 propelled me into the world of text classification, where I tackled the i
 - Aimed to streamline communication and enhance efficiency.
 
 ### GitHub Repository
-Find the code and data related to this project in the [SMS Classifier GitHub Repository](insert_link_here).
+Find the code and data related to this project in the [SMS Classifier GitHub Repository](https://github.com/chandanthota75/Bharat-Intern-DS-Internship/tree/main/Task%202).
 
 ## Conclusion
 My journey with Bharat Intern has been nothing short of phenomenal! From unravelling the mysteries of historical data to decoding the nuances of text classification, each task has fueled my passion for innovation and problem-solving. I'm eager to continue pushing boundaries, learning, and contributing to groundbreaking projects.
